@@ -1,0 +1,1328 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\Users\\Karthick\\Downloads\\KiCad\\1\\ARCHANGEL_FINAL\\aeolus\\aeolus.kicad_sch")
+		(date "2026-09-10T23:24:56")
+		(tool "Eeschema 10.0.5")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "aeolus.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "U1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "VTX")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7ea8df77-f167-444a-accf-1215b9ed9584")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "New_Library")
+				(part "Pixhawk_6C_Mini_partial")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3311c120-a615-487b-b88f-c54bea5ad6ee")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U3")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "VTX")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "876cc5ba-1913-4baa-a758-9d7276059167")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U4")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Converter_ACDC")
+				(part "power_module")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "705cc373-ff75-4d27-a1d4-4c7017d5a90f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U5")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Telemetry_radio")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5798f430-928b-4b08-89b9-f61d6eda1169")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "GND")
+						)
+						(pin
+							(num "TX")
+						)
+						(pin
+							(num "RX")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U6")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "RC_receiver")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "489cc506-01ff-408e-8469-f6e7f612a6dd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "GND")
+						)
+						(pin
+							(num "TX")
+						)
+						(pin
+							(num "RX")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U7")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Telemetry_radio")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8dc6d97a-395a-4fb9-a255-83c3111efbd9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "GND")
+						)
+						(pin
+							(num "TX")
+						)
+						(pin
+							(num "RX")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U8")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Converter_ACDC")
+				(part "power_module")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cb3d2b65-e768-4536-ab63-68e696558b15")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U9")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Converter_ACDC")
+				(part "power_module")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "aeolus")
+			)
+			(property
+				(name "Sheetfile")
+				(value "aeolus.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7925f08d-b9a3-46e4-89c4-1035a66e7161")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector_Generic")
+			(part "RC_receiver")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VCC")
+					(type "passive")
+				)
+				(pin
+					(num "GND")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "RX")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "TX")
+					(name "Pin_3")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Telemetry_radio")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VCC")
+					(type "passive")
+				)
+				(pin
+					(num "GND")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "RX")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "TX")
+					(name "Pin_3")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "VTX")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "SA_DATA")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Converter_ACDC")
+			(part "power_module")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "")
+					(name "VCC_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "VCC_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "CURRENT")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "VOLTAGE")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "GND_1")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "GND_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "New_Library")
+			(part "Pixhawk_6C_Mini_partial")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "TELEM1_5V")
+					(type "power_out")
+				)
+				(pin
+					(num "2")
+					(name "TELEM1_TX")
+					(type "output")
+				)
+				(pin
+					(num "3")
+					(name "TELEM1_RX")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "TELEM1_GND")
+					(type "power_out")
+				)
+				(pin
+					(num "5")
+					(name "TELEM2_5V")
+					(type "power_out")
+				)
+				(pin
+					(num "6")
+					(name "TELEM2_TX")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "TELEM2_RX")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "TELEM2_GND")
+					(type "power_out")
+				)
+				(pin
+					(num "9")
+					(name "GPS2_TX")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "GPS2_GND")
+					(type "power_out")
+				)
+				(pin
+					(num "11")
+					(name "PWR_VDD_1")
+					(type "power_in")
+				)
+				(pin
+					(num "12")
+					(name "PWR_VDD_2")
+					(type "power_in")
+				)
+				(pin
+					(num "13")
+					(name "PWR_CURRENT")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "PWR_VOLTAGE")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "PWR_GND_1")
+					(type "power_in")
+				)
+				(pin
+					(num "16")
+					(name "PWR_GND_2")
+					(type "power_in")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector_Generic")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym")
+		)
+		(library
+			(logical "Converter_ACDC")
+			(uri "${KICAD10_SYMBOL_DIR}/Converter_ACDC.kicad_sym")
+		)
+		(library
+			(logical "New_Library")
+			(uri "${KIPRJMOD}/New_Library.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "Net-(U2-GPS2_GND)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "10")
+				(pinfunction "GPS2_GND_10")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U3")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(U2-GPS2_TX)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "9")
+				(pinfunction "GPS2_TX_9")
+				(pintype "output")
+			)
+			(node
+				(ref "U3")
+				(pin "1")
+				(pinfunction "SA_DATA_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(U2-PWR_CURRENT)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "13")
+				(pinfunction "PWR_CURRENT_13")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "3")
+				(pinfunction "CURRENT_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(U2-PWR_GND_1)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "15")
+				(pinfunction "PWR_GND_1_15")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "5")
+				(pinfunction "GND_1_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(U2-PWR_GND_2)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "16")
+				(pinfunction "PWR_GND_2_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "6")
+				(pinfunction "GND_2_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(U2-PWR_VDD_1)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "11")
+				(pinfunction "PWR_VDD_1_11")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "")
+				(pinfunction "VCC_1_")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(U2-PWR_VDD_2)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "12")
+				(pinfunction "PWR_VDD_2_12")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "2")
+				(pinfunction "VCC_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(U2-PWR_VOLTAGE)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "14")
+				(pinfunction "PWR_VOLTAGE_14")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "4")
+				(pinfunction "VOLTAGE_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(U2-TELEM1_5V)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "TELEM1_5V_1")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U6")
+				(pin "1")
+				(pinfunction "VCC_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(U2-TELEM1_GND)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "TELEM1_GND_4")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U6")
+				(pin "GND")
+				(pinfunction "Pin_2_GND")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(U2-TELEM1_RX)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "TELEM1_RX_3")
+				(pintype "input")
+			)
+			(node
+				(ref "U6")
+				(pin "RX")
+				(pinfunction "Pin_4_RX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(U2-TELEM1_TX)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "TELEM1_TX_2")
+				(pintype "output")
+			)
+			(node
+				(ref "U6")
+				(pin "TX")
+				(pinfunction "Pin_3_TX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(U2-TELEM2_5V)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "TELEM2_5V_5")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U5")
+				(pin "1")
+				(pinfunction "VCC_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(U2-TELEM2_GND)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "TELEM2_GND_8")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U5")
+				(pin "GND")
+				(pinfunction "Pin_2_GND")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(U2-TELEM2_RX)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "7")
+				(pinfunction "TELEM2_RX_7")
+				(pintype "input")
+			)
+			(node
+				(ref "U5")
+				(pin "RX")
+				(pinfunction "Pin_4_RX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(U2-TELEM2_TX)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "TELEM2_TX_6")
+				(pintype "output")
+			)
+			(node
+				(ref "U5")
+				(pin "TX")
+				(pinfunction "Pin_3_TX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "unconnected-(U1-GND-Pad2)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "unconnected-(U1-SA_DATA-Pad1)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "SA_DATA_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "unconnected-(U7-Pin_2-PadGND)")
+			(class "Default")
+			(node
+				(ref "U7")
+				(pin "GND")
+				(pinfunction "Pin_2_GND")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "unconnected-(U7-Pin_3-PadTX)")
+			(class "Default")
+			(node
+				(ref "U7")
+				(pin "TX")
+				(pinfunction "Pin_3_TX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "unconnected-(U7-Pin_4-PadRX)")
+			(class "Default")
+			(node
+				(ref "U7")
+				(pin "RX")
+				(pinfunction "Pin_4_RX")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "22")
+			(name "unconnected-(U7-VCC-Pad1)")
+			(class "Default")
+			(node
+				(ref "U7")
+				(pin "1")
+				(pinfunction "VCC_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "unconnected-(U8-CURRENT-Pad3)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "3")
+				(pinfunction "CURRENT_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "unconnected-(U8-GND_1-Pad5)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "5")
+				(pinfunction "GND_1_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "unconnected-(U8-GND_2-Pad6)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "6")
+				(pinfunction "GND_2_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "unconnected-(U8-VCC_1-Pad)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "")
+				(pinfunction "VCC_1_")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "unconnected-(U8-VCC_2-Pad2)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "2")
+				(pinfunction "VCC_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "unconnected-(U8-VOLTAGE-Pad4)")
+			(class "Default")
+			(node
+				(ref "U8")
+				(pin "4")
+				(pinfunction "VOLTAGE_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "29")
+			(name "unconnected-(U9-CURRENT-Pad3)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "3")
+				(pinfunction "CURRENT_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "30")
+			(name "unconnected-(U9-GND_1-Pad5)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "5")
+				(pinfunction "GND_1_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "31")
+			(name "unconnected-(U9-GND_2-Pad6)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "6")
+				(pinfunction "GND_2_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "32")
+			(name "unconnected-(U9-VCC_1-Pad)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "")
+				(pinfunction "VCC_1_")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "33")
+			(name "unconnected-(U9-VCC_2-Pad2)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "2")
+				(pinfunction "VCC_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "34")
+			(name "unconnected-(U9-VOLTAGE-Pad4)")
+			(class "Default")
+			(node
+				(ref "U9")
+				(pin "4")
+				(pinfunction "VOLTAGE_4")
+				(pintype "passive")
+			)
+		)
+	)
+)
